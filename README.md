@@ -3,6 +3,7 @@
 ## 🎯 Objetivo
 
 Este projeto foi criado como um exercício para testar minhas habilidades em **HTML** e **CSS**. O objetivo foi desenvolver um **preview card** visualmente atraente, com foco em design limpo e responsivo.
+#### Link para acessar o projeto: https://luizf-devdias.github.io/preview-card/
 
 ## ✨ Funcionalidades
 
