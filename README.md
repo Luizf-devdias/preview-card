@@ -22,10 +22,16 @@ Este projeto foi criado como um exercício para testar minhas habilidades em **H
 
 Aqui está uma prévia do design:
 
-![Preview Card]()
+## Desktop 💻
+
+![Preview Card](design/desktop-design.jpg)
+
+## Mobile📱
+
+![Preview Card](design/mobile-design.jpg)
 
 ## 💡 Como Executar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/preview-card.git
+   git clone https://github.com/Luizf-devdias/preview-card.git
